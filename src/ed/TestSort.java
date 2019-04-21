@@ -30,7 +30,7 @@ public class TestSort {
         bubble.ordenar(elementos);
         System.out.println(Arrays.toString(elementos));*/
        
-     Insert insert = new Insert();
+         Insert insert = new Insert();
 
         int[] elementos = {10, 9, 8, 7, 5, 3, 2, 1, 6};
 
