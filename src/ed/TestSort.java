@@ -36,6 +36,7 @@ public class TestSort {
 
         insert.ordedar(elementos);
         System.out.println(Arrays.toString(elementos));
+        System.out.println("ed.TestSort.main()");
     }
 
 }
